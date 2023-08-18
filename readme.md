@@ -9,12 +9,13 @@
 
 ```bash
  FURB - campus 2  
+ Sala - G-101
  Rua São Paulo, 3250  
  Blumenau - SC 
 ```
 
 ```bash
- Horário: 18:30~22:00  
+ Horário: 18:00~22:00  
 ```
 ## Referência
 
